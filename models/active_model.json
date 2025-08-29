@@ -1,0 +1,4 @@
+{
+    "model_name": "RandomForest",
+    "model_file": "randomforest_v1.pkl"
+}
